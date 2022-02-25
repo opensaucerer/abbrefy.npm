@@ -1,0 +1,17 @@
+{
+  "DATA_ERROR": "URL data is required",
+  "FILE_TYPE_ERROR": "You can only upload a CSV file",
+  "FILE_ERROR": "You need to upload a CSV file",
+  "URL_ERROR": "That URL is invalid",
+  "DUPLICATE_ERROR": "That's already an Abbrefy link",
+  "USAGE_ERROR": "That slug is already in use",
+  "EXISTENCE_ERROR": "We couldn't find that link",
+  "AUTHORIZATION_ERROR": "You aren't authorized for that action",
+  "UNKNOWN_ERROR": "Something completely went wrong",
+  "CHARACTER_LIMIT_ERROR": "You have exceeded the character limit",
+  "DATA_VALIDATION_ERROR": "Invalid characters in data sent",
+  "SECURE_PASSWORD_ERROR": "Password not strong enough",
+  "PASSWORD_MATCH_ERROR": "You provided the wrong password",
+  "KEY_LIMIT_EXCEEDED": "You have exceeded the allowed API Key limit",
+  "SEARCH_SUCCESS": "Abbrefy link search successful"
+}
