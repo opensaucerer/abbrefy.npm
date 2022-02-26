@@ -42,7 +42,7 @@ class Abbrefy {
    */
   async abbrefy(url) {
     return new Promise((resolve, reject) => {
-      if (!slug) {
+      if (!url) {
         return reject('URL to be Abbrefied required');
       }
       var options = {
@@ -100,7 +100,7 @@ class Abbrefy {
    */
   async gekúrú(url) {
     return new Promise((resolve, reject) => {
-      if (!slug) {
+      if (!url) {
         return reject('URL to be Abbrefied required');
       }
       var options = {

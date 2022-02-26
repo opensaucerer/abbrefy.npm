@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "abbrefy",
+    "url shortner",
+    "bitly",
+    "cutly",
+    "tinyurl",
+    "url short"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "abbrefynode": "^1.0.0",
     "request": "^2.88.2"
   }
 }
