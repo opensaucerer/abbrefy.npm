@@ -1,6 +1,6 @@
 {
   "name": "abbrefy",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Interface with the [Abbrefy](https://abbrefy.xyz/) API and bring all the power of Abbrefy right into your Node.js applications.",
   "main": "main.js",
   "scripts": {
@@ -12,12 +12,12 @@
     "bitly",
     "cutly",
     "tinyurl",
-    "url short"
+    "url short",
+    "nodemailing"
   ],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "abbrefynode": "^1.0.0",
     "request": "^2.88.2"
   }
 }
