@@ -11,7 +11,7 @@ Interface with the [Abbrefy](https://abbrefy.xyz/) API and bring all the power o
 
 You need an api key to access some Abbrefy functions. You can get that via https://abbrefy.xyz/me/dashboard/#account
 
-You can also set the api key in your NodeJS ENV using ABBREFY_API_KEY as your env variable name and then instantiate the Abbrefy class without any argument.
+You can also set the api key in your NodeJS ENV using `ABBREFY_API_KEY` as your env variable name and then instantiate the Abbrefy class without any argument.
 
 **Here's a few use cases for Abbrefy**
 
